@@ -30,7 +30,7 @@
   Nodejs, Express, MySQL, Sequelize, and dotenv
   
   ## Video
-  ![YouTube](https://youtu.be/-cLQGEAh0ns)
+ https://youtu.be/-cLQGEAh0ns
 
   ## ScreenShot
   ![screenshot](https://github.com/dmoloney5/RUT-WEEK13-e-com-back-end/blob/main/asset/Ecommerce-Backend.jpg)
